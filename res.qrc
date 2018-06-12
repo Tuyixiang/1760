@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>res/matematica.otf</file>
+        <file>res/HYAlzheimer.ttf</file>
+        <file>res/beleren.ttf</file>
+        <file>res/Athelas.ttc</file>
+    </qresource>
+</RCC>
